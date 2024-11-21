@@ -2,7 +2,7 @@ package tasks;
 
 import java.util.Scanner;
 
-public class Actor {
+public class Hero {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
